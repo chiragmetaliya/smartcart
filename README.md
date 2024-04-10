@@ -46,7 +46,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ##  Snapshot 
 
-<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/chiragmetaliya/smartcart/assets/20520571/e43727f8-33d0-4d6f-98e1-6e3065c24fb2">
+<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/chiragmetaliya/smartcart/assets/20520571/fdf3c541-42ba-48f0-9f5e-d09854fc2aa9">
 
 ## Contributing
 
